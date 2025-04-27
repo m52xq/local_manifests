@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project name="m52xq/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" remote="github" revision="15.0" />
+    <project name="m52xq/android_device_samsung_sm7325-common" path="device/samsung/sm7325-common" remote="github" revision="15.0" />
+    <project name="m52xq/android_device_samsung_m52xq" path="device/samsung/m52xq" remote="github" revision="15.0" />
+    <project name="m52xq/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" remote="github" revision="15.0" />
+    <project name="m52xq/android_kernel_samsung_sm7325" path="kernel/samsung/sm7325" remote="github" revision="15.0" />
+    <project name="crdroidandroid/android_hardware_samsung" path="hardware/samsung" remote="github" revision="15.0" />
+    <project name="Lavender-Gang/Keys" path="vendor/lineage-priv/keys" remote="github" revision="main" />
+</manifest>
