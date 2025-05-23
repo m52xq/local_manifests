@@ -5,6 +5,6 @@
     <project name="m52xq/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" remote="github" revision="15.0" />
     <project name="m52xq/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" remote="github" revision="15.0-m52xq" />
     <project name="m52xq/android_kernel_samsung_sm7325" path="kernel/samsung/sm7325" remote="github" revision="15.0" />
-    <project name="m52xq/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineag-22.2" />
+    <project name="m52xq/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.2" />
     <project name="m52xq/android_hardware_dolby" path="hardware/dolby" remote="github" revision="15.0" />
 </manifest>
