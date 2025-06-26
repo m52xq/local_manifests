@@ -3,8 +3,8 @@
     
     <remote name="github" fetch="https://github.com/" />
     
-    <project name="m52xq/android_device_samsung_m52xq" path="device/samsung/m52xq" remote="github" revision="15.0-Voltage" />
-    <project name="m52xq/android_device_samsung_sm7325-common" path="device/samsung/sm7325-common" remote="github" revision="15.0-Voltage" />
+    <project name="m52xq/android_device_samsung_m52xq" path="device/samsung/m52xq" remote="github" revision="15.0-Yaap" />
+    <project name="m52xq/android_device_samsung_sm7325-common" path="device/samsung/sm7325-common" remote="github" revision="15.0-Yaap" />
     <project name="m52xq/proprietary_vendor_samsung_m52xq" path="vendor/samsung/m52xq" remote="github" revision="15.0" />
     <project name="m52xq/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" remote="github" revision="15.0-m52xq" />
     <project name="m52xq/android_kernel_samsung_sm7325" path="kernel/samsung/sm7325" remote="github" revision="15.0" />
